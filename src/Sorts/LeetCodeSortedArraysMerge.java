@@ -1,6 +1,5 @@
 package Sorts;
 
-import java.awt.image.AreaAveragingScaleFilter;
 import java.util.Arrays;
 
 public class LeetCodeSortedArraysMerge {
